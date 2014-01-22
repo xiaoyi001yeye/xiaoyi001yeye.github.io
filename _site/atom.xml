@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-01-22T16:49:52+08:00</updated>
- <id>http://username.github.io</id>
+ <title>xiaoyi001yeye</title>
+ <link href="http://xiaoyi001yeye.github.io/" rel="self"/>
+ <link href="http://xiaoyi001yeye.github.io"/>
+ <updated>2014-01-22T17:40:31+08:00</updated>
+ <id>http://xiaoyi001yeye.github.io</id>
  <author>
    <name>Name Lastname</name>
-   <email>blah@email.test</email>
+   <email>xiaoyi001yeye@qq.com</email>
  </author>
 
  

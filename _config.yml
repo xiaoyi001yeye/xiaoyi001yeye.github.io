@@ -1,21 +1,23 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
+# 这个规定了你博客的URL地址 。默认是date 
 permalink: /:categories/:year/:month/:day/:title 
-
+auto: true
+markdown: rdiscount
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : xiaoyi001yeye
 tagline: Site Tagline
 author :
   name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : xiaoyi001yeye@qq.com
+  github : xiaoyi001yeye
+# twitter : username
+# feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://xiaoyi001yeye.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -54,7 +56,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  BASE_PATH : true
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

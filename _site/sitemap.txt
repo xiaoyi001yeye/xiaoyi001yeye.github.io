@@ -1,11 +1,11 @@
 
-http://username.github.io/rss.xml
-http://username.github.io/pages.html
-http://username.github.io/tags.html
-http://username.github.io/atom.xml
-http://username.github.io/index.html
-http://username.github.io/pages/about.html
-http://username.github.io/pages/about/index.html
-http://username.github.io/archive.html
-http://username.github.io/sitemap.txt
-http://username.github.io/categories.html
+http://xiaoyi001yeye.github.io/rss.xml
+http://xiaoyi001yeye.github.io/pages.html
+http://xiaoyi001yeye.github.io/tags.html
+http://xiaoyi001yeye.github.io/atom.xml
+http://xiaoyi001yeye.github.io/index.html
+http://xiaoyi001yeye.github.io/pages/about.html
+http://xiaoyi001yeye.github.io/pages/about/index.html
+http://xiaoyi001yeye.github.io/archive.html
+http://xiaoyi001yeye.github.io/sitemap.txt
+http://xiaoyi001yeye.github.io/categories.html
