@@ -5,10 +5,48 @@
         <description>xiaoyi001yeye - Name Lastname</description>
         <link>http://xiaoyi001yeye.github.io</link>
         <link>http://xiaoyi001yeye.github.io</link>
-        <lastBuildDate>2014-01-22T17:40:31+08:00</lastBuildDate>
-        <pubDate>2014-01-22T17:40:31+08:00</pubDate>
+        <lastBuildDate>2014-01-22T18:02:33+08:00</lastBuildDate>
+        <pubDate>2014-01-22T18:02:33+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>how to write blog</title>
+                <description>&lt;h1&gt;copy的官方文档，建个试试，基本明白怎么玩了&lt;/h1&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://jekyllbootstrap.com/usage/jekyll-quick-start.html&quot;&gt;Jekyll Quick Start&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Complete usage and documentation available at: &lt;a href=&quot;http://jekyllbootstrap.com&quot;&gt;Jekyll Bootstrap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Update Author Attributes&lt;/h2&gt;
+
+&lt;p&gt;In &lt;code&gt;_config.yml&lt;/code&gt; remember to specify your own data:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;title : My Blog =)
+
+author :
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The theme should reference these variables whenever needed.&lt;/p&gt;
+
+&lt;h2&gt;Sample Posts&lt;/h2&gt;
+
+&lt;p&gt;This blog contains sample posts which help stage pages and blog data.
+When you don't need the samples anymore just delete the &lt;code&gt;_posts/core-samples&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf _posts/core-samples
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here's a sample &quot;posts list&quot;.&lt;/p&gt;
+</description>
+                <link>http://xiaoyi001yeye.github.io/2014/01/22/how-to-write-blog</link>
+                <guid>http://xiaoyi001yeye.github.io/2014/01/22/how-to-write-blog</guid>
+                <pubDate>2014-01-22T00:00:00+08:00</pubDate>
+        </item>
 
 
 </channel>

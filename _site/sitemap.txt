@@ -9,3 +9,5 @@ http://xiaoyi001yeye.github.io/pages/about/index.html
 http://xiaoyi001yeye.github.io/archive.html
 http://xiaoyi001yeye.github.io/sitemap.txt
 http://xiaoyi001yeye.github.io/categories.html
+
+http://xiaoyi001yeye.github.io/2014/01/22/how-to-write-blog
