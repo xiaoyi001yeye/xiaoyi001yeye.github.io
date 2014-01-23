@@ -4,13 +4,27 @@
  <title>xiaoyi001yeye</title>
  <link href="http://xiaoyi001yeye.github.io/" rel="self"/>
  <link href="http://xiaoyi001yeye.github.io"/>
- <updated>2014-01-22T18:02:33+08:00</updated>
+ <updated>2014-01-23T15:49:03+08:00</updated>
  <id>http://xiaoyi001yeye.github.io</id>
  <author>
    <name>Name Lastname</name>
    <email>xiaoyi001yeye@qq.com</email>
  </author>
 
+ 
+ <entry>
+   <title>常用命令</title>
+   <link href="http://xiaoyi001yeye.github.io/2014/01/23/new-post"/>
+   <updated>2014-01-23T00:00:00+08:00</updated>
+   <id>http://xiaoyi001yeye.github.io/2014/01/23/new-post</id>
+   <content type="html">&lt;h2&gt;常用命令&lt;/h2&gt;
+
+&lt;h1&gt;启动本地服务&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
  
  <entry>
    <title>how to write blog</title>

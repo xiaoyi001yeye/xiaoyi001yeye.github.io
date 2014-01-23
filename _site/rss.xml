@@ -5,10 +5,24 @@
         <description>xiaoyi001yeye - Name Lastname</description>
         <link>http://xiaoyi001yeye.github.io</link>
         <link>http://xiaoyi001yeye.github.io</link>
-        <lastBuildDate>2014-01-22T18:02:33+08:00</lastBuildDate>
-        <pubDate>2014-01-22T18:02:33+08:00</pubDate>
+        <lastBuildDate>2014-01-23T15:49:03+08:00</lastBuildDate>
+        <pubDate>2014-01-23T15:49:03+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>常用命令</title>
+                <description>&lt;h2&gt;常用命令&lt;/h2&gt;
+
+&lt;h1&gt;启动本地服务&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+                <link>http://xiaoyi001yeye.github.io/2014/01/23/new-post</link>
+                <guid>http://xiaoyi001yeye.github.io/2014/01/23/new-post</guid>
+                <pubDate>2014-01-23T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>how to write blog</title>
